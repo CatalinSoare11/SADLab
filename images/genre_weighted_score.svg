@@ -1,0 +1,35 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='560'>
+<style>text{font-family:Arial, sans-serif; font-size:14px; fill:#1a202c;} .title{font-size:18px; font-weight:bold;}</style>
+<rect width='100%' height='100%' fill='#ffffff'/>
+<text x='30' y='40' class='title'>Top Genres by Weighted Score (Last 1,000 Releases)</text>
+<text x='30' y='100'>Fantasy</text>
+<rect x='180' y='80' width='680.0' height='32' fill='#2b6cb0'/>
+<text x='868.0' y='100'>36.4</text>
+<text x='30' y='144'>Comedy</text>
+<rect x='180' y='124' width='667.9' height='32' fill='#2b6cb0'/>
+<text x='855.9' y='144'>35.75</text>
+<text x='30' y='188'>Family</text>
+<rect x='180' y='168' width='666.5' height='32' fill='#2b6cb0'/>
+<text x='854.5' y='188'>35.68</text>
+<text x='30' y='232'>Drama</text>
+<rect x='180' y='212' width='665.8' height='32' fill='#2b6cb0'/>
+<text x='853.8' y='232'>35.64</text>
+<text x='30' y='276'>Animation</text>
+<rect x='180' y='256' width='662.3' height='32' fill='#2b6cb0'/>
+<text x='850.3' y='276'>35.45</text>
+<text x='30' y='320'>Thriller</text>
+<rect x='180' y='300' width='662.1' height='32' fill='#2b6cb0'/>
+<text x='850.1' y='320'>35.44</text>
+<text x='30' y='364'>Action</text>
+<rect x='180' y='344' width='660.8' height='32' fill='#2b6cb0'/>
+<text x='848.8' y='364'>35.37</text>
+<text x='30' y='408'>Sci-Fi</text>
+<rect x='180' y='388' width='654.8' height='32' fill='#2b6cb0'/>
+<text x='842.8' y='408'>35.05</text>
+<text x='30' y='452'>Romance</text>
+<rect x='180' y='432' width='654.4' height='32' fill='#2b6cb0'/>
+<text x='842.4' y='452'>35.03</text>
+<text x='30' y='496'>Adventure</text>
+<rect x='180' y='476' width='653.1' height='32' fill='#2b6cb0'/>
+<text x='841.1' y='496'>34.96</text>
+</svg>
