@@ -1,0 +1,1001 @@
+Title,Year,Genre,Rating,Votes
+Synthetic Movie 0456,2026,"Comedy, Crime",7.7,434068
+Synthetic Movie 0939,2026,"Comedy, Mystery",5.9,432564
+Synthetic Movie 0815,2026,Adventure,5.2,432422
+Synthetic Movie 0648,2026,Action,6.9,431113
+Synthetic Movie 1155,2026,"Adventure, Animation",7.3,424186
+Synthetic Movie 1056,2026,Thriller,6.1,414008
+Synthetic Movie 0208,2026,"Action, Mystery, Fantasy",8.0,413059
+Synthetic Movie 0677,2026,"Action, Animation, Mystery",6.1,409137
+Synthetic Movie 0281,2026,"Adventure, Animation, Romance",5.1,403014
+Synthetic Movie 0989,2026,"Mystery, Family, Horror",6.4,397645
+Synthetic Movie 0307,2026,"Comedy, Horror",5.7,397448
+Synthetic Movie 0083,2026,"Family, Mystery",6.3,386967
+Synthetic Movie 0567,2026,"Romance, Family, Animation",7.3,377639
+Synthetic Movie 0178,2026,Crime,7.8,377130
+Synthetic Movie 0927,2026,Animation,7.4,375561
+Synthetic Movie 0490,2026,Crime,5.5,370552
+Synthetic Movie 1117,2026,"Animation, Family, Sci-Fi",8.3,369964
+Synthetic Movie 0275,2026,"Adventure, Family",6.4,366554
+Synthetic Movie 0821,2026,"Romance, Animation",7.4,364982
+Synthetic Movie 0921,2026,"Thriller, Comedy",5.6,361833
+Synthetic Movie 0551,2026,Drama,6.9,357379
+Synthetic Movie 0484,2026,"Action, Thriller",8.2,350654
+Synthetic Movie 0367,2026,"Sci-Fi, Mystery, Drama",5.1,350365
+Synthetic Movie 0532,2026,"Romance, Family, Drama",4.7,343182
+Synthetic Movie 0976,2026,Animation,5.7,336199
+Synthetic Movie 0294,2026,"Drama, Adventure, Thriller",4.7,335766
+Synthetic Movie 1177,2026,"Sci-Fi, Fantasy, Mystery",8.2,335023
+Synthetic Movie 0126,2026,Adventure,7.3,333855
+Synthetic Movie 0283,2026,"Animation, Fantasy",5.8,333842
+Synthetic Movie 1067,2026,"Horror, Comedy, Sci-Fi",5.3,327959
+Synthetic Movie 1101,2026,"Mystery, Comedy, Thriller",7.0,322511
+Synthetic Movie 0502,2026,"Thriller, Drama",7.7,317270
+Synthetic Movie 0882,2026,Action,6.2,314348
+Synthetic Movie 0467,2026,Fantasy,7.5,297998
+Synthetic Movie 0257,2026,Mystery,7.3,296891
+Synthetic Movie 1193,2026,Fantasy,6.4,296025
+Synthetic Movie 0141,2026,"Drama, Family, Horror",6.0,295179
+Synthetic Movie 0602,2026,"Animation, Fantasy, Adventure",6.2,291448
+Synthetic Movie 0524,2026,Romance,5.3,291066
+Synthetic Movie 1191,2026,"Comedy, Animation, Romance",7.7,290488
+Synthetic Movie 1174,2026,"Action, Animation",8.2,288418
+Synthetic Movie 0920,2026,"Mystery, Drama",5.5,286073
+Synthetic Movie 0014,2026,"Comedy, Animation, Fantasy",7.1,285043
+Synthetic Movie 0053,2026,Action,6.5,283463
+Synthetic Movie 0668,2026,"Action, Drama",5.4,281010
+Synthetic Movie 1110,2026,"Sci-Fi, Action, Horror",6.9,280372
+Synthetic Movie 0802,2026,"Comedy, Romance, Sci-Fi",7.1,271515
+Synthetic Movie 1186,2026,Family,6.9,271311
+Synthetic Movie 0285,2026,Crime,4.7,270990
+Synthetic Movie 0623,2026,"Action, Animation, Comedy",6.0,268214
+Synthetic Movie 0388,2026,Action,6.6,267184
+Synthetic Movie 0477,2026,"Romance, Thriller, Drama",7.9,266777
+Synthetic Movie 0679,2026,Drama,4.9,265143
+Synthetic Movie 0580,2026,"Romance, Action",5.0,259456
+Synthetic Movie 0309,2026,"Thriller, Family",8.5,247053
+Synthetic Movie 0202,2026,"Crime, Fantasy, Thriller",5.1,246775
+Synthetic Movie 1041,2026,"Romance, Family, Adventure",6.0,245501
+Synthetic Movie 1129,2026,"Fantasy, Adventure",7.2,242889
+Synthetic Movie 0245,2026,"Mystery, Family, Adventure",6.7,242877
+Synthetic Movie 0812,2026,"Romance, Mystery",5.0,241194
+Synthetic Movie 0980,2026,"Animation, Thriller",6.6,241080
+Synthetic Movie 0164,2026,Fantasy,8.3,235242
+Synthetic Movie 0273,2026,"Romance, Family, Crime",6.3,217034
+Synthetic Movie 0529,2026,"Horror, Sci-Fi, Family",6.5,215137
+Synthetic Movie 0470,2026,Horror,7.4,212949
+Synthetic Movie 0391,2026,"Sci-Fi, Crime, Mystery",5.8,211021
+Synthetic Movie 1109,2026,"Drama, Family, Mystery",7.5,204425
+Synthetic Movie 0397,2026,Romance,7.7,204329
+Synthetic Movie 1122,2026,"Family, Action, Animation",8.4,203536
+Synthetic Movie 0675,2026,"Sci-Fi, Thriller",7.8,203382
+Synthetic Movie 0908,2026,"Animation, Adventure",4.8,203291
+Synthetic Movie 0029,2026,Horror,5.3,201038
+Synthetic Movie 0627,2026,"Fantasy, Comedy, Horror",5.5,198081
+Synthetic Movie 0789,2026,"Action, Romance, Animation",6.1,193009
+Synthetic Movie 0128,2026,"Family, Romance, Drama",7.7,187034
+Synthetic Movie 0728,2026,Crime,6.8,185485
+Synthetic Movie 0296,2026,Mystery,8.1,179777
+Synthetic Movie 0091,2026,"Fantasy, Thriller",7.0,173951
+Synthetic Movie 0289,2026,"Fantasy, Horror, Animation",7.2,173572
+Synthetic Movie 1001,2026,Animation,6.5,173109
+Synthetic Movie 0740,2026,"Animation, Sci-Fi, Action",6.2,172554
+Synthetic Movie 0057,2026,"Comedy, Romance",6.8,170868
+Synthetic Movie 0875,2026,"Animation, Action",6.0,170849
+Synthetic Movie 1154,2026,"Horror, Action, Comedy",7.5,170414
+Synthetic Movie 0018,2026,Romance,8.1,169981
+Synthetic Movie 0611,2026,"Sci-Fi, Romance, Animation",7.0,167157
+Synthetic Movie 0737,2026,"Adventure, Fantasy, Thriller",7.0,161487
+Synthetic Movie 0227,2026,Sci-Fi,6.2,151664
+Synthetic Movie 0311,2026,Romance,5.1,136073
+Synthetic Movie 0404,2026,"Horror, Crime",6.5,134247
+Synthetic Movie 1130,2026,"Crime, Mystery, Romance",7.0,133300
+Synthetic Movie 0846,2026,Romance,8.3,132835
+Synthetic Movie 0411,2026,Action,7.5,130452
+Synthetic Movie 1062,2026,"Crime, Family",6.6,121436
+Synthetic Movie 0730,2026,Romance,7.7,117364
+Synthetic Movie 0369,2026,"Family, Mystery, Romance",5.6,115524
+Synthetic Movie 0568,2026,Thriller,5.1,113328
+Synthetic Movie 0666,2026,"Horror, Crime",5.1,103688
+Synthetic Movie 0961,2026,"Crime, Comedy, Thriller",8.0,103121
+Synthetic Movie 0340,2026,"Crime, Drama, Adventure",8.6,99611
+Synthetic Movie 0617,2026,"Thriller, Adventure",5.2,87475
+Synthetic Movie 0347,2026,"Fantasy, Drama, Sci-Fi",4.6,85445
+Synthetic Movie 0915,2026,"Fantasy, Comedy",4.9,75193
+Synthetic Movie 0669,2026,"Sci-Fi, Animation",5.3,73414
+Synthetic Movie 1143,2026,"Mystery, Fantasy, Horror",6.0,73007
+Synthetic Movie 0362,2026,"Horror, Action",5.2,72650
+Synthetic Movie 0386,2026,Adventure,7.3,67291
+Synthetic Movie 0898,2026,"Comedy, Family, Drama",7.4,67039
+Synthetic Movie 0618,2026,Sci-Fi,7.3,65468
+Synthetic Movie 0323,2026,"Mystery, Horror",6.4,63121
+Synthetic Movie 0517,2026,Crime,5.3,61084
+Synthetic Movie 1171,2026,Horror,6.8,58674
+Synthetic Movie 0191,2026,"Adventure, Horror",5.9,57619
+Synthetic Movie 0712,2026,Mystery,6.9,57535
+Synthetic Movie 0695,2026,Comedy,6.5,55849
+Synthetic Movie 1055,2026,"Romance, Crime, Action",7.9,54998
+Synthetic Movie 0505,2026,"Crime, Comedy, Adventure",7.2,49928
+Synthetic Movie 0433,2026,"Fantasy, Horror, Drama",8.1,47923
+Synthetic Movie 0381,2026,"Fantasy, Mystery",5.9,31497
+Synthetic Movie 0768,2026,"Adventure, Romance, Action",4.7,30145
+Synthetic Movie 0495,2026,Romance,6.4,29411
+Synthetic Movie 0935,2026,"Comedy, Romance",5.2,23906
+Synthetic Movie 0368,2026,Action,4.7,19875
+Synthetic Movie 1127,2026,"Fantasy, Thriller",7.6,11400
+Synthetic Movie 0427,2026,"Romance, Drama",7.5,10995
+Synthetic Movie 0100,2025,Fantasy,5.5,449772
+Synthetic Movie 0954,2025,"Drama, Mystery",8.4,449601
+Synthetic Movie 0824,2025,"Thriller, Action",5.7,449229
+Synthetic Movie 0081,2025,"Drama, Action, Adventure",6.1,447321
+Synthetic Movie 0629,2025,"Action, Drama, Thriller",5.9,445178
+Synthetic Movie 0685,2025,"Thriller, Mystery",6.0,439533
+Synthetic Movie 0828,2025,"Adventure, Mystery",4.6,431784
+Synthetic Movie 0972,2025,"Drama, Action",6.8,429681
+Synthetic Movie 0271,2025,"Adventure, Family",7.9,427681
+Synthetic Movie 0657,2025,"Thriller, Action, Family",5.5,425567
+Synthetic Movie 0830,2025,"Crime, Sci-Fi, Romance",7.7,423812
+Synthetic Movie 0723,2025,"Mystery, Action, Animation",6.2,414215
+Synthetic Movie 0974,2025,"Drama, Thriller",5.2,414106
+Synthetic Movie 0279,2025,"Drama, Sci-Fi",5.3,411967
+Synthetic Movie 0454,2025,Animation,5.4,411880
+Synthetic Movie 0912,2025,"Romance, Family, Horror",7.9,411255
+Synthetic Movie 0403,2025,"Romance, Thriller, Crime",6.0,409744
+Synthetic Movie 1020,2025,"Thriller, Fantasy",7.7,401727
+Synthetic Movie 0022,2025,Adventure,6.5,401247
+Synthetic Movie 1179,2025,"Mystery, Animation",4.8,401226
+Synthetic Movie 0829,2025,"Horror, Family, Comedy",8.0,394238
+Synthetic Movie 0288,2025,Fantasy,8.4,392407
+Synthetic Movie 0975,2025,"Adventure, Family",6.5,391151
+Synthetic Movie 1112,2025,Horror,6.7,390440
+Synthetic Movie 0525,2025,"Sci-Fi, Comedy",4.6,386269
+Synthetic Movie 0907,2025,"Drama, Fantasy, Mystery",5.6,384682
+Synthetic Movie 0597,2025,"Crime, Sci-Fi, Action",7.0,383105
+Synthetic Movie 0621,2025,"Romance, Family, Comedy",7.8,379352
+Synthetic Movie 0770,2025,Comedy,5.5,372981
+Synthetic Movie 1065,2025,Thriller,6.3,370885
+Synthetic Movie 0576,2025,"Fantasy, Thriller",7.6,369224
+Synthetic Movie 0144,2025,Comedy,8.4,366844
+Synthetic Movie 0534,2025,"Comedy, Fantasy, Drama",6.8,365534
+Synthetic Movie 0200,2025,Animation,6.2,362459
+Synthetic Movie 0064,2025,Animation,5.7,352806
+Synthetic Movie 0254,2025,"Comedy, Adventure",5.4,349318
+Synthetic Movie 0047,2025,"Action, Adventure, Comedy",4.9,346911
+Synthetic Movie 0241,2025,Action,5.7,342295
+Synthetic Movie 0028,2025,"Romance, Horror",8.2,332837
+Synthetic Movie 1198,2025,"Fantasy, Comedy, Sci-Fi",5.7,327737
+Synthetic Movie 0795,2025,Action,8.2,326343
+Synthetic Movie 0063,2025,"Horror, Action, Romance",7.4,325695
+Synthetic Movie 0592,2025,"Animation, Fantasy, Drama",6.8,324983
+Synthetic Movie 0221,2025,Romance,5.8,324858
+Synthetic Movie 0321,2025,"Family, Adventure, Crime",8.4,324228
+Synthetic Movie 1128,2025,"Comedy, Thriller",7.8,323758
+Synthetic Movie 0772,2025,"Animation, Family, Adventure",5.6,322526
+Synthetic Movie 0030,2025,"Fantasy, Action",8.3,319019
+Synthetic Movie 0661,2025,Animation,6.0,311178
+Synthetic Movie 0792,2025,"Mystery, Comedy, Romance",7.6,307330
+Synthetic Movie 0084,2025,Crime,5.0,307298
+Synthetic Movie 0902,2025,Action,4.7,305033
+Synthetic Movie 0251,2025,"Drama, Romance, Adventure",4.7,299433
+Synthetic Movie 0004,2025,Sci-Fi,7.0,299254
+Synthetic Movie 0870,2025,Crime,6.4,293182
+Synthetic Movie 1077,2025,"Thriller, Crime, Horror",5.4,291483
+Synthetic Movie 0480,2025,"Action, Horror, Thriller",6.5,289235
+Synthetic Movie 0883,2025,"Romance, Animation",5.6,287946
+Synthetic Movie 0435,2025,Animation,5.3,286364
+Synthetic Movie 0704,2025,"Romance, Mystery, Animation",6.8,275961
+Synthetic Movie 0813,2025,Horror,5.1,266529
+Synthetic Movie 1141,2025,"Sci-Fi, Mystery, Crime",8.5,258578
+Synthetic Movie 0539,2025,Fantasy,6.5,254646
+Synthetic Movie 0358,2025,"Animation, Mystery, Adventure",6.8,250055
+Synthetic Movie 0543,2025,Thriller,6.2,247249
+Synthetic Movie 0005,2025,"Crime, Action, Animation",6.2,240514
+Synthetic Movie 0155,2025,"Mystery, Family",6.1,237113
+Synthetic Movie 0261,2025,"Drama, Animation",5.4,225113
+Synthetic Movie 0631,2025,"Action, Animation",8.5,225104
+Synthetic Movie 0181,2025,"Fantasy, Comedy",7.4,222836
+Synthetic Movie 0179,2025,Comedy,4.6,218904
+Synthetic Movie 0624,2025,Fantasy,8.5,215200
+Synthetic Movie 0115,2025,"Mystery, Romance, Action",4.6,211580
+Synthetic Movie 0385,2025,"Fantasy, Horror, Crime",5.7,207558
+Synthetic Movie 0966,2025,Animation,6.3,204692
+Synthetic Movie 0825,2025,Action,4.9,204685
+Synthetic Movie 0513,2025,Animation,5.2,204613
+Synthetic Movie 0698,2025,"Drama, Animation",6.1,199521
+Synthetic Movie 0530,2025,"Thriller, Horror, Mystery",4.7,193496
+Synthetic Movie 0990,2025,"Horror, Comedy",5.8,187016
+Synthetic Movie 0186,2025,"Thriller, Horror, Family",6.5,179294
+Synthetic Movie 1060,2025,"Sci-Fi, Comedy, Animation",6.8,176353
+Synthetic Movie 1044,2025,"Family, Romance",8.6,175212
+Synthetic Movie 0375,2025,Fantasy,6.8,172308
+Synthetic Movie 0052,2025,Action,4.7,169419
+Synthetic Movie 0090,2025,"Comedy, Family",7.9,164317
+Synthetic Movie 1025,2025,"Horror, Drama",5.1,160017
+Synthetic Movie 0555,2025,Animation,5.2,156432
+Synthetic Movie 0313,2025,Thriller,8.0,154455
+Synthetic Movie 0692,2025,"Comedy, Adventure",5.6,152599
+Synthetic Movie 0169,2025,Mystery,7.2,150834
+Synthetic Movie 0659,2025,Action,5.8,146786
+Synthetic Movie 0061,2025,Drama,5.4,144041
+Synthetic Movie 0923,2025,"Mystery, Drama",6.8,138052
+Synthetic Movie 0455,2025,"Mystery, Drama, Thriller",8.6,127768
+Synthetic Movie 0412,2025,Adventure,5.4,127073
+Synthetic Movie 0956,2025,"Animation, Action, Horror",5.6,121440
+Synthetic Movie 0112,2025,"Comedy, Crime",7.8,120625
+Synthetic Movie 1140,2025,"Action, Adventure, Mystery",5.4,114602
+Synthetic Movie 0776,2025,"Fantasy, Drama, Comedy",6.5,113891
+Synthetic Movie 1131,2025,Animation,7.9,113861
+Synthetic Movie 1085,2025,"Fantasy, Horror, Action",4.9,109267
+Synthetic Movie 1039,2025,"Romance, Comedy, Mystery",6.1,106250
+Synthetic Movie 0488,2025,"Horror, Crime, Drama",5.1,105627
+Synthetic Movie 1028,2025,"Romance, Fantasy, Horror",7.9,104546
+Synthetic Movie 1023,2025,"Animation, Horror, Drama",7.4,104497
+Synthetic Movie 0054,2025,Mystery,4.8,102425
+Synthetic Movie 0868,2025,Mystery,5.1,101465
+Synthetic Movie 0402,2025,"Horror, Drama",6.0,95797
+Synthetic Movie 0744,2025,"Horror, Animation, Crime",5.7,94121
+Synthetic Movie 0310,2025,Thriller,6.7,89965
+Synthetic Movie 0606,2025,"Adventure, Crime",6.7,85048
+Synthetic Movie 0865,2025,Action,8.1,79120
+Synthetic Movie 0183,2025,Crime,7.6,76569
+Synthetic Movie 0420,2025,"Fantasy, Crime, Comedy",6.6,75359
+Synthetic Movie 1019,2025,"Comedy, Drama",7.7,70969
+Synthetic Movie 0773,2025,"Adventure, Thriller",7.4,66726
+Synthetic Movie 0562,2025,"Thriller, Horror",5.0,64877
+Synthetic Movie 0807,2025,Animation,6.0,60743
+Synthetic Movie 1084,2025,"Fantasy, Mystery",8.5,57221
+Synthetic Movie 0137,2025,Sci-Fi,8.4,49885
+Synthetic Movie 0671,2025,"Sci-Fi, Romance",8.0,43027
+Synthetic Movie 0148,2025,Horror,5.0,28863
+Synthetic Movie 0291,2025,Sci-Fi,7.1,25521
+Synthetic Movie 0335,2025,"Comedy, Crime, Drama",6.4,24199
+Synthetic Movie 0619,2025,Action,4.5,11442
+Synthetic Movie 0485,2025,Horror,6.8,11213
+Synthetic Movie 0918,2025,"Romance, Comedy",5.0,8771
+Synthetic Movie 0174,2025,"Horror, Fantasy, Family",7.9,5603
+Synthetic Movie 1103,2024,"Fantasy, Sci-Fi, Romance",5.0,448620
+Synthetic Movie 1035,2024,Fantasy,8.3,441248
+Synthetic Movie 0526,2024,"Adventure, Family, Romance",7.8,440831
+Synthetic Movie 0132,2024,"Mystery, Crime, Drama",6.4,437922
+Synthetic Movie 1072,2024,Comedy,4.7,433957
+Synthetic Movie 0078,2024,"Drama, Crime",5.4,433126
+Synthetic Movie 0189,2024,"Family, Romance",7.4,430411
+Synthetic Movie 0354,2024,"Drama, Romance, Thriller",8.6,429942
+Synthetic Movie 0371,2024,"Family, Crime, Fantasy",5.5,428283
+Synthetic Movie 0432,2024,"Comedy, Thriller, Romance",7.6,425476
+Synthetic Movie 0479,2024,"Animation, Thriller",5.2,421796
+Synthetic Movie 0645,2024,Adventure,4.9,421184
+Synthetic Movie 0522,2024,Drama,8.5,414979
+Synthetic Movie 0878,2024,"Fantasy, Horror",6.3,411201
+Synthetic Movie 0804,2024,"Mystery, Fantasy, Romance",5.9,407347
+Synthetic Movie 0033,2024,"Thriller, Animation, Sci-Fi",7.8,403774
+Synthetic Movie 0219,2024,"Crime, Mystery, Family",6.0,397697
+Synthetic Movie 0431,2024,"Drama, Family, Horror",5.1,397028
+Synthetic Movie 0225,2024,"Horror, Family, Mystery",6.0,394619
+Synthetic Movie 0102,2024,"Family, Horror, Fantasy",7.0,382106
+Synthetic Movie 0808,2024,"Sci-Fi, Family, Adventure",5.1,380839
+Synthetic Movie 1033,2024,"Crime, Action, Drama",6.7,372690
+Synthetic Movie 0588,2024,"Adventure, Family",4.5,369693
+Synthetic Movie 0652,2024,"Animation, Drama",4.6,363200
+Synthetic Movie 0134,2024,"Drama, Action",6.8,355323
+Synthetic Movie 0019,2024,"Animation, Crime",6.1,342039
+Synthetic Movie 1026,2024,"Family, Sci-Fi, Animation",4.5,339509
+Synthetic Movie 0726,2024,Romance,6.6,338137
+Synthetic Movie 0968,2024,"Horror, Sci-Fi, Drama",5.1,335643
+Synthetic Movie 0373,2024,Drama,5.3,323064
+Synthetic Movie 0895,2024,Horror,7.7,321780
+Synthetic Movie 0587,2024,Horror,4.8,316259
+Synthetic Movie 0944,2024,Fantasy,7.3,312666
+Synthetic Movie 0348,2024,Horror,7.6,305900
+Synthetic Movie 0651,2024,"Sci-Fi, Family",4.7,305880
+Synthetic Movie 0799,2024,"Adventure, Fantasy",6.3,305435
+Synthetic Movie 0559,2024,Thriller,5.2,301431
+Synthetic Movie 0282,2024,"Fantasy, Romance, Mystery",6.4,300559
+Synthetic Movie 0060,2024,Adventure,7.0,300170
+Synthetic Movie 0969,2024,"Action, Family, Adventure",5.7,299722
+Synthetic Movie 0312,2024,Sci-Fi,8.1,295739
+Synthetic Movie 0840,2024,"Adventure, Sci-Fi",7.7,293442
+Synthetic Movie 0448,2024,"Horror, Family",7.3,290446
+Synthetic Movie 0119,2024,Drama,4.6,287810
+Synthetic Movie 0292,2024,"Mystery, Animation, Drama",8.6,279762
+Synthetic Movie 1116,2024,Animation,4.9,267488
+Synthetic Movie 0800,2024,"Romance, Action, Adventure",5.8,265766
+Synthetic Movie 0558,2024,"Sci-Fi, Fantasy",6.2,262805
+Synthetic Movie 0139,2024,"Thriller, Action",7.1,262331
+Synthetic Movie 0332,2024,"Animation, Thriller, Adventure",8.5,255888
+Synthetic Movie 0905,2024,"Animation, Comedy",7.0,252156
+Synthetic Movie 0159,2024,"Action, Comedy",7.3,251369
+Synthetic Movie 0379,2024,"Crime, Fantasy",8.6,249745
+Synthetic Movie 0438,2024,Horror,7.8,242729
+Synthetic Movie 0699,2024,"Crime, Comedy",4.7,235550
+Synthetic Movie 0929,2024,Adventure,8.3,233263
+Synthetic Movie 0070,2024,"Action, Adventure, Sci-Fi",6.8,229231
+Synthetic Movie 1108,2024,"Thriller, Action",8.1,229162
+Synthetic Movie 0242,2024,"Adventure, Fantasy, Sci-Fi",8.0,228490
+Synthetic Movie 0564,2024,Sci-Fi,6.7,227903
+Synthetic Movie 1153,2024,"Action, Horror, Crime",7.7,222030
+Synthetic Movie 0247,2024,"Fantasy, Family",8.1,221957
+Synthetic Movie 0182,2024,Mystery,6.8,206109
+Synthetic Movie 0206,2024,"Drama, Mystery, Crime",4.9,204944
+Synthetic Movie 0914,2024,"Mystery, Sci-Fi",7.7,204877
+Synthetic Movie 0009,2024,Horror,6.7,203461
+Synthetic Movie 0306,2024,"Sci-Fi, Comedy, Fantasy",4.7,195997
+Synthetic Movie 0803,2024,Comedy,8.4,195496
+Synthetic Movie 0130,2024,"Fantasy, Sci-Fi, Animation",4.9,194890
+Synthetic Movie 0406,2024,"Thriller, Sci-Fi, Crime",5.8,187873
+Synthetic Movie 0962,2024,"Animation, Fantasy",8.4,184881
+Synthetic Movie 1076,2024,Sci-Fi,6.4,178998
+Synthetic Movie 0797,2024,"Action, Horror",5.8,178484
+Synthetic Movie 0473,2024,Drama,7.6,172894
+Synthetic Movie 0527,2024,Crime,5.1,163771
+Synthetic Movie 1160,2024,Horror,7.9,163664
+Synthetic Movie 0540,2024,Thriller,5.8,162424
+Synthetic Movie 0889,2024,"Comedy, Action",5.5,143599
+Synthetic Movie 0741,2024,"Family, Thriller",8.6,141014
+Synthetic Movie 0173,2024,"Adventure, Family",4.9,137329
+Synthetic Movie 0037,2024,Drama,5.0,122806
+Synthetic Movie 0265,2024,"Adventure, Drama, Family",6.2,118020
+Synthetic Movie 0176,2024,"Horror, Animation",7.6,111723
+Synthetic Movie 0933,2024,"Thriller, Horror, Crime",6.3,110752
+Synthetic Movie 0333,2024,Thriller,4.7,110691
+Synthetic Movie 0626,2024,"Mystery, Crime",4.5,110209
+Synthetic Movie 0774,2024,"Horror, Comedy",5.3,109726
+Synthetic Movie 0415,2024,"Drama, Crime",6.5,109572
+Synthetic Movie 0187,2024,"Comedy, Mystery, Family",8.3,103908
+Synthetic Movie 0135,2024,"Comedy, Drama",8.0,100336
+Synthetic Movie 1144,2024,"Comedy, Sci-Fi, Crime",6.5,99323
+Synthetic Movie 1185,2024,"Thriller, Drama",6.4,94549
+Synthetic Movie 0034,2024,"Horror, Mystery",8.4,91574
+Synthetic Movie 1016,2024,"Thriller, Adventure",7.3,86260
+Synthetic Movie 0620,2024,Action,6.0,83687
+Synthetic Movie 0192,2024,"Romance, Animation",4.6,80578
+Synthetic Movie 1078,2024,"Sci-Fi, Romance, Action",7.1,79106
+Synthetic Movie 0319,2024,"Fantasy, Thriller, Mystery",7.4,77767
+Synthetic Movie 0790,2024,"Fantasy, Action",8.3,64211
+Synthetic Movie 1167,2024,"Thriller, Romance, Crime",8.1,59055
+Synthetic Movie 0885,2024,"Drama, Horror",6.6,52476
+Synthetic Movie 0778,2024,"Adventure, Sci-Fi, Thriller",5.1,52229
+Synthetic Movie 0594,2024,Animation,8.0,50449
+Synthetic Movie 1121,2024,"Sci-Fi, Family, Horror",7.1,49725
+Synthetic Movie 0633,2024,"Adventure, Horror, Animation",8.5,49513
+Synthetic Movie 1184,2024,"Adventure, Drama",6.5,39270
+Synthetic Movie 0286,2024,"Crime, Adventure",6.4,34826
+Synthetic Movie 0888,2024,Thriller,8.4,26191
+Synthetic Movie 0891,2024,"Drama, Adventure, Horror",8.1,25921
+Synthetic Movie 0757,2024,"Comedy, Sci-Fi, Drama",6.1,24778
+Synthetic Movie 0195,2024,"Adventure, Comedy, Romance",8.1,23821
+Synthetic Movie 1032,2024,"Romance, Family, Thriller",5.3,21681
+Synthetic Movie 0983,2024,"Horror, Adventure",6.7,18822
+Synthetic Movie 0710,2024,"Mystery, Thriller, Horror",8.3,11482
+Synthetic Movie 1081,2024,Family,7.2,9369
+Synthetic Movie 0382,2024,Family,5.7,9287
+Synthetic Movie 1047,2024,"Action, Crime, Mystery",8.4,5102
+Synthetic Movie 0114,2023,"Animation, Mystery",7.5,445667
+Synthetic Movie 0109,2023,"Family, Mystery",4.8,441674
+Synthetic Movie 0118,2023,"Crime, Adventure",5.6,441167
+Synthetic Movie 0099,2023,"Horror, Fantasy, Action",5.4,426585
+Synthetic Movie 1005,2023,"Drama, Fantasy",5.8,424148
+Synthetic Movie 0786,2023,Adventure,7.2,422810
+Synthetic Movie 0906,2023,"Thriller, Animation, Mystery",7.0,421607
+Synthetic Movie 0184,2023,"Crime, Action, Thriller",5.9,417990
+Synthetic Movie 0523,2023,"Drama, Adventure",5.6,417020
+Synthetic Movie 0138,2023,Sci-Fi,6.5,402496
+Synthetic Movie 0426,2023,"Drama, Crime",5.5,400185
+Synthetic Movie 0074,2023,Comedy,8.5,397942
+Synthetic Movie 0277,2023,"Comedy, Drama",8.1,396016
+Synthetic Movie 1099,2023,"Sci-Fi, Crime, Animation",5.7,395914
+Synthetic Movie 0337,2023,"Family, Drama",8.1,394707
+Synthetic Movie 0043,2023,Romance,6.4,387245
+Synthetic Movie 0630,2023,"Adventure, Comedy",8.0,386270
+Synthetic Movie 0125,2023,Adventure,6.1,379873
+Synthetic Movie 0996,2023,"Romance, Family, Sci-Fi",5.5,379833
+Synthetic Movie 0429,2023,"Sci-Fi, Adventure",7.3,373866
+Synthetic Movie 0963,2023,"Drama, Family",5.4,372375
+Synthetic Movie 0817,2023,Crime,8.5,368077
+Synthetic Movie 0973,2023,"Comedy, Mystery, Sci-Fi",5.0,361298
+Synthetic Movie 0535,2023,"Sci-Fi, Horror, Animation",6.4,361282
+Synthetic Movie 0326,2023,Horror,5.3,355337
+Synthetic Movie 0252,2023,"Sci-Fi, Action",5.9,353830
+Synthetic Movie 1079,2023,"Action, Crime, Animation",6.9,352879
+Synthetic Movie 0697,2023,"Adventure, Romance",6.4,351575
+Synthetic Movie 0924,2023,Sci-Fi,7.5,350654
+Synthetic Movie 0036,2023,"Fantasy, Horror",8.6,345723
+Synthetic Movie 0015,2023,"Horror, Comedy, Romance",5.6,340544
+Synthetic Movie 0554,2023,"Sci-Fi, Romance, Animation",5.3,338185
+Synthetic Movie 0575,2023,Family,6.4,337203
+Synthetic Movie 1113,2023,Comedy,6.6,335641
+Synthetic Movie 0857,2023,"Family, Drama",6.1,335415
+Synthetic Movie 0816,2023,"Horror, Family",7.2,322802
+Synthetic Movie 0574,2023,"Crime, Romance, Family",6.5,307737
+Synthetic Movie 0152,2023,"Romance, Action, Animation",6.5,307525
+Synthetic Movie 0096,2023,Sci-Fi,8.1,306817
+Synthetic Movie 0714,2023,"Fantasy, Action, Animation",7.2,304904
+Synthetic Movie 0634,2023,Family,4.8,302701
+Synthetic Movie 0941,2023,Horror,6.6,297883
+Synthetic Movie 0922,2023,"Animation, Drama",6.8,297323
+Synthetic Movie 0463,2023,"Animation, Family, Comedy",8.5,297178
+Synthetic Movie 0801,2023,"Action, Adventure, Mystery",6.2,297097
+Synthetic Movie 0644,2023,"Horror, Comedy, Adventure",8.0,296479
+Synthetic Movie 0492,2023,"Action, Romance",6.1,294774
+Synthetic Movie 0863,2023,"Romance, Animation",7.8,291116
+Synthetic Movie 0957,2023,Horror,6.5,288518
+Synthetic Movie 0035,2023,"Sci-Fi, Comedy, Crime",8.5,287746
+Synthetic Movie 1059,2023,Drama,4.7,279927
+Synthetic Movie 0131,2023,"Crime, Mystery, Horror",5.2,278545
+Synthetic Movie 0931,2023,"Sci-Fi, Mystery",7.0,278156
+Synthetic Movie 0316,2023,"Comedy, Family",4.7,268196
+Synthetic Movie 0600,2023,"Mystery, Adventure, Horror",5.0,266925
+Synthetic Movie 0170,2023,Fantasy,7.1,262805
+Synthetic Movie 0788,2023,"Romance, Fantasy, Animation",8.2,258060
+Synthetic Movie 0413,2023,Romance,5.9,252675
+Synthetic Movie 0024,2023,"Crime, Horror, Action",6.1,250392
+Synthetic Movie 0342,2023,"Fantasy, Action",5.2,237735
+Synthetic Movie 1176,2023,"Animation, Sci-Fi",4.7,228590
+Synthetic Movie 0702,2023,"Romance, Fantasy, Mystery",7.9,224483
+Synthetic Movie 0684,2023,"Family, Drama",8.5,222065
+Synthetic Movie 0842,2023,Drama,6.7,216506
+Synthetic Movie 0605,2023,Romance,6.2,215909
+Synthetic Movie 0021,2023,"Comedy, Animation",8.2,214400
+Synthetic Movie 0113,2023,"Romance, Thriller",6.5,208873
+Synthetic Movie 0444,2023,"Family, Thriller",6.0,205529
+Synthetic Movie 0270,2023,"Sci-Fi, Comedy, Horror",5.2,204338
+Synthetic Movie 0893,2023,"Romance, Adventure, Horror",7.2,196520
+Synthetic Movie 0387,2023,"Drama, Animation, Comedy",6.0,182778
+Synthetic Movie 0672,2023,"Drama, Animation",6.9,181454
+Synthetic Movie 0194,2023,"Horror, Family, Drama",7.2,177262
+Synthetic Movie 1045,2023,"Comedy, Mystery, Horror",7.9,174581
+Synthetic Movie 0460,2023,"Family, Thriller, Animation",7.7,172108
+Synthetic Movie 1142,2023,"Horror, Mystery",7.0,170931
+Synthetic Movie 0248,2023,"Drama, Romance",7.5,168865
+Synthetic Movie 0498,2023,Mystery,8.3,161907
+Synthetic Movie 0818,2023,"Thriller, Animation",8.5,159231
+Synthetic Movie 0172,2023,"Family, Horror, Action",7.3,156109
+Synthetic Movie 0785,2023,"Sci-Fi, Fantasy",8.4,147518
+Synthetic Movie 0329,2023,"Action, Drama, Adventure",8.5,137985
+Synthetic Movie 0985,2023,"Crime, Fantasy, Romance",5.8,134707
+Synthetic Movie 0097,2023,Romance,6.5,132918
+Synthetic Movie 0162,2023,"Animation, Crime, Thriller",5.0,122864
+Synthetic Movie 0546,2023,Crime,4.5,117615
+Synthetic Movie 0853,2023,"Sci-Fi, Thriller, Family",7.9,112782
+Synthetic Movie 0544,2023,"Romance, Family, Sci-Fi",7.1,102720
+Synthetic Movie 0418,2023,"Crime, Action, Sci-Fi",7.7,102680
+Synthetic Movie 0487,2023,Adventure,7.8,98987
+Synthetic Movie 0089,2023,"Mystery, Crime, Family",7.3,96240
+Synthetic Movie 1014,2023,"Mystery, Adventure",5.8,92745
+Synthetic Movie 0690,2023,"Family, Animation, Action",8.4,91506
+Synthetic Movie 0006,2023,Thriller,5.9,86516
+Synthetic Movie 0751,2023,Comedy,4.7,84051
+Synthetic Movie 0711,2023,Mystery,5.0,83455
+Synthetic Movie 0230,2023,"Adventure, Romance",5.6,69046
+Synthetic Movie 0507,2023,Action,5.8,60863
+Synthetic Movie 0533,2023,"Comedy, Horror",4.9,56698
+Synthetic Movie 0042,2023,"Family, Drama, Thriller",5.3,55819
+Synthetic Movie 0003,2023,Comedy,4.6,54123
+Synthetic Movie 0537,2023,Sci-Fi,8.3,50012
+Synthetic Movie 0360,2023,Drama,7.9,43666
+Synthetic Movie 1138,2023,"Fantasy, Animation",8.0,39039
+Synthetic Movie 0615,2023,"Sci-Fi, Mystery",5.6,38487
+Synthetic Movie 0439,2023,"Fantasy, Romance, Crime",6.4,35270
+Synthetic Movie 1115,2023,"Horror, Animation, Fantasy",5.7,33598
+Synthetic Movie 0459,2023,"Romance, Thriller",6.8,29580
+Synthetic Movie 0068,2023,Drama,7.9,28114
+Synthetic Movie 0913,2023,"Horror, Family, Comedy",6.0,27774
+Synthetic Movie 1087,2023,"Romance, Drama",7.6,14632
+Synthetic Movie 0451,2023,Comedy,7.0,13202
+Synthetic Movie 1015,2023,Mystery,7.7,9681
+Synthetic Movie 0928,2023,Animation,8.5,7773
+Synthetic Movie 0519,2022,"Mystery, Animation, Crime",6.3,436769
+Synthetic Movie 1178,2022,Sci-Fi,5.8,433575
+Synthetic Movie 1057,2022,"Family, Adventure",5.9,433417
+Synthetic Movie 0008,2022,Sci-Fi,7.0,428167
+Synthetic Movie 1071,2022,"Mystery, Animation",7.0,425896
+Synthetic Movie 0847,2022,Family,6.1,422441
+Synthetic Movie 0578,2022,"Family, Comedy, Thriller",8.0,422164
+Synthetic Movie 1199,2022,"Crime, Family, Drama",5.7,421466
+Synthetic Movie 0613,2022,"Crime, Animation, Drama",6.6,415510
+Synthetic Movie 0658,2022,"Drama, Mystery",6.5,414697
+Synthetic Movie 0016,2022,Comedy,8.0,411847
+Synthetic Movie 0577,2022,"Adventure, Sci-Fi, Fantasy",6.9,410869
+Synthetic Movie 0839,2022,"Mystery, Romance, Crime",6.9,410621
+Synthetic Movie 0884,2022,"Sci-Fi, Crime, Animation",6.1,409826
+Synthetic Movie 0563,2022,Thriller,6.7,401773
+Synthetic Movie 1073,2022,Adventure,5.1,386936
+Synthetic Movie 0465,2022,Action,4.9,384891
+Synthetic Movie 1150,2022,"Mystery, Action, Animation",5.9,384792
+Synthetic Movie 0378,2022,"Comedy, Animation",8.3,383078
+Synthetic Movie 0622,2022,"Crime, Adventure",5.5,382638
+Synthetic Movie 0520,2022,Fantasy,7.0,369533
+Synthetic Movie 0793,2022,"Mystery, Adventure, Family",6.6,365836
+Synthetic Movie 0958,2022,Fantasy,6.1,364839
+Synthetic Movie 0299,2022,"Sci-Fi, Romance, Horror",7.8,356333
+Synthetic Movie 0424,2022,Animation,4.9,355882
+Synthetic Movie 1123,2022,Animation,6.8,350783
+Synthetic Movie 0330,2022,"Adventure, Mystery, Drama",5.5,349511
+Synthetic Movie 0872,2022,Adventure,5.0,348656
+Synthetic Movie 0349,2022,"Comedy, Adventure",6.1,345556
+Synthetic Movie 0738,2022,"Crime, Thriller",8.6,340856
+Synthetic Movie 1147,2022,Action,6.8,339235
+Synthetic Movie 0608,2022,"Romance, Thriller, Adventure",6.1,337552
+Synthetic Movie 0556,2022,Drama,8.0,329749
+Synthetic Movie 0689,2022,"Sci-Fi, Action",6.9,326726
+Synthetic Movie 0977,2022,"Family, Adventure, Sci-Fi",6.2,326026
+Synthetic Movie 0678,2022,Romance,8.3,325539
+Synthetic Movie 0549,2022,"Mystery, Adventure",6.9,325501
+Synthetic Movie 0123,2022,"Sci-Fi, Adventure, Animation",5.2,323372
+Synthetic Movie 0823,2022,"Romance, Sci-Fi, Family",6.8,310558
+Synthetic Movie 0955,2022,"Fantasy, Animation",6.5,306213
+Synthetic Movie 0752,2022,"Animation, Drama",6.2,303531
+Synthetic Movie 0474,2022,Sci-Fi,6.2,299924
+Synthetic Movie 0820,2022,"Comedy, Thriller, Sci-Fi",7.4,295236
+Synthetic Movie 0834,2022,"Mystery, Comedy, Sci-Fi",7.6,291583
+Synthetic Movie 0106,2022,Animation,5.8,288195
+Synthetic Movie 0327,2022,"Horror, Thriller, Sci-Fi",4.8,280806
+Synthetic Movie 0392,2022,"Fantasy, Sci-Fi, Mystery",6.6,272236
+Synthetic Movie 0849,2022,"Fantasy, Action",6.6,271723
+Synthetic Movie 0536,2022,Crime,8.6,258111
+Synthetic Movie 0550,2022,"Animation, Romance, Crime",5.9,245050
+Synthetic Movie 0142,2022,"Crime, Thriller",5.9,242893
+Synthetic Movie 0228,2022,Drama,5.4,238148
+Synthetic Movie 0436,2022,Romance,8.0,236651
+Synthetic Movie 0343,2022,"Romance, Action",7.0,233034
+Synthetic Movie 0026,2022,Fantasy,5.0,232942
+Synthetic Movie 0811,2022,Romance,4.9,222301
+Synthetic Movie 0701,2022,"Comedy, Horror, Action",7.8,222048
+Synthetic Movie 0937,2022,"Comedy, Horror, Action",7.2,217573
+Synthetic Movie 0521,2022,"Crime, Sci-Fi",5.2,213792
+Synthetic Movie 0058,2022,Romance,5.5,212505
+Synthetic Movie 0111,2022,"Horror, Sci-Fi",5.7,209465
+Synthetic Movie 1104,2022,"Fantasy, Animation",5.3,208140
+Synthetic Movie 0293,2022,"Thriller, Drama",8.3,208117
+Synthetic Movie 0471,2022,"Horror, Romance",7.7,204576
+Synthetic Movie 0007,2022,Drama,4.9,204191
+Synthetic Movie 0504,2022,"Animation, Romance",6.8,201831
+Synthetic Movie 0255,2022,Thriller,8.0,197707
+Synthetic Movie 0472,2022,"Fantasy, Thriller, Adventure",5.8,193557
+Synthetic Movie 0374,2022,"Animation, Drama",7.5,186073
+Synthetic Movie 0262,2022,"Mystery, Adventure, Action",5.8,175070
+Synthetic Movie 0171,2022,"Adventure, Animation, Drama",6.2,173326
+Synthetic Movie 0781,2022,"Sci-Fi, Adventure",7.8,168948
+Synthetic Movie 0874,2022,"Mystery, Animation, Thriller",7.0,165261
+Synthetic Movie 0088,2022,"Animation, Comedy, Family",6.1,160008
+Synthetic Movie 0775,2022,Action,7.4,159849
+Synthetic Movie 0748,2022,"Adventure, Fantasy",5.6,159167
+Synthetic Movie 1024,2022,"Horror, Animation, Adventure",7.5,149349
+Synthetic Movie 0636,2022,Adventure,5.8,147583
+Synthetic Movie 1172,2022,Sci-Fi,6.8,147109
+Synthetic Movie 0013,2022,"Romance, Thriller, Adventure",5.4,144973
+Synthetic Movie 0073,2022,"Adventure, Drama, Horror",5.4,135825
+Synthetic Movie 0516,2022,"Romance, Fantasy, Mystery",5.5,134284
+Synthetic Movie 0237,2022,"Drama, Action, Animation",7.7,129744
+Synthetic Movie 1088,2022,"Crime, Action, Romance",7.1,128839
+Synthetic Movie 0220,2022,"Action, Mystery",4.9,127590
+Synthetic Movie 0364,2022,"Horror, Crime",8.3,123211
+Synthetic Movie 0876,2022,"Sci-Fi, Romance, Family",5.5,121143
+Synthetic Movie 0639,2022,"Crime, Fantasy",8.5,113861
+Synthetic Movie 0841,2022,"Adventure, Horror, Animation",6.7,101400
+Synthetic Movie 0784,2022,Family,7.8,100876
+Synthetic Movie 1118,2022,"Mystery, Sci-Fi",6.3,98783
+Synthetic Movie 0670,2022,"Sci-Fi, Animation, Adventure",4.7,82443
+Synthetic Movie 1098,2022,"Action, Drama, Family",7.9,81295
+Synthetic Movie 0259,2022,"Romance, Family, Adventure",4.5,80105
+Synthetic Movie 0318,2022,Crime,7.7,77141
+Synthetic Movie 0232,2022,"Comedy, Adventure, Horror",5.5,71020
+Synthetic Movie 0805,2022,Thriller,7.4,64781
+Synthetic Movie 0919,2022,Family,6.2,60880
+Synthetic Movie 0760,2022,"Horror, Mystery",5.8,58848
+Synthetic Movie 0494,2022,"Action, Comedy, Sci-Fi",6.8,54997
+Synthetic Movie 0694,2022,"Romance, Thriller",4.5,50942
+Synthetic Movie 0855,2022,Animation,4.7,43403
+Synthetic Movie 0080,2022,"Drama, Romance",5.6,41396
+Synthetic Movie 0832,2022,Sci-Fi,8.5,33207
+Synthetic Movie 0384,2022,"Horror, Comedy, Drama",4.7,31821
+Synthetic Movie 0660,2022,"Action, Fantasy",6.9,20363
+Synthetic Movie 0665,2022,"Sci-Fi, Drama, Mystery",8.2,19788
+Synthetic Movie 0511,2022,"Family, Thriller",8.0,11470
+Synthetic Movie 0754,2022,"Crime, Comedy",7.1,7471
+Synthetic Movie 0146,2021,Crime,8.5,441537
+Synthetic Movie 0207,2021,"Family, Crime, Action",4.6,440178
+Synthetic Movie 1008,2021,Adventure,7.9,439242
+Synthetic Movie 0761,2021,Crime,5.2,436931
+Synthetic Movie 1089,2021,Horror,8.1,432220
+Synthetic Movie 0256,2021,"Horror, Mystery",6.9,428216
+Synthetic Movie 0864,2021,"Romance, Drama, Action",7.3,421817
+Synthetic Movie 0599,2021,Fantasy,7.1,415937
+Synthetic Movie 0833,2021,"Comedy, Romance",5.3,414429
+Synthetic Movie 1125,2021,"Crime, Romance",5.8,407983
+Synthetic Movie 0268,2021,Thriller,8.4,407312
+Synthetic Movie 0168,2021,Fantasy,6.9,405088
+Synthetic Movie 0508,2021,"Adventure, Animation",6.3,404164
+Synthetic Movie 0461,2021,"Fantasy, Comedy, Sci-Fi",6.0,400531
+Synthetic Movie 0844,2021,"Horror, Fantasy, Thriller",5.4,399608
+Synthetic Movie 0059,2021,Action,6.4,399193
+Synthetic Movie 0196,2021,Family,8.6,396520
+Synthetic Movie 0950,2021,"Comedy, Fantasy, Thriller",5.2,396200
+Synthetic Movie 0998,2021,"Thriller, Crime, Family",5.7,394507
+Synthetic Movie 0238,2021,"Horror, Adventure",4.7,393873
+Synthetic Movie 0050,2021,"Romance, Sci-Fi, Fantasy",6.2,387995
+Synthetic Movie 0609,2021,Action,7.4,387708
+Synthetic Movie 0676,2021,Sci-Fi,5.0,387117
+Synthetic Movie 0339,2021,"Adventure, Family",7.8,386200
+Synthetic Movie 0066,2021,"Comedy, Romance",7.0,381235
+Synthetic Movie 1003,2021,"Sci-Fi, Action",5.6,379968
+Synthetic Movie 0105,2021,"Comedy, Crime",6.3,379103
+Synthetic Movie 1181,2021,"Fantasy, Comedy",7.3,377357
+Synthetic Movie 0351,2021,"Comedy, Mystery",7.7,374118
+Synthetic Movie 0160,2021,"Adventure, Romance",7.4,373567
+Synthetic Movie 0177,2021,"Adventure, Action",6.3,371084
+Synthetic Movie 0641,2021,"Action, Comedy, Drama",7.9,370364
+Synthetic Movie 0410,2021,"Animation, Adventure",8.3,369994
+Synthetic Movie 1135,2021,"Mystery, Thriller, Horror",7.0,367552
+Synthetic Movie 0835,2021,Animation,6.3,362909
+Synthetic Movie 0407,2021,"Family, Thriller, Drama",5.0,359744
+Synthetic Movie 1082,2021,"Adventure, Action",7.2,351082
+Synthetic Movie 1083,2021,"Comedy, Family",8.1,345478
+Synthetic Movie 0464,2021,Fantasy,5.3,344060
+Synthetic Movie 0093,2021,"Drama, Adventure, Comedy",6.6,336843
+Synthetic Movie 0010,2021,"Mystery, Comedy",7.9,329282
+Synthetic Movie 0715,2021,"Romance, Sci-Fi, Family",6.2,329138
+Synthetic Movie 0598,2021,"Comedy, Sci-Fi, Family",5.3,323204
+Synthetic Movie 0720,2021,"Adventure, Comedy, Fantasy",7.5,322183
+Synthetic Movie 0466,2021,"Action, Adventure, Comedy",6.0,322178
+Synthetic Movie 0127,2021,Thriller,8.0,319788
+Synthetic Movie 0136,2021,"Crime, Horror, Action",5.9,317556
+Synthetic Movie 0244,2021,"Sci-Fi, Drama, Family",7.1,311899
+Synthetic Movie 1052,2021,Comedy,6.0,310217
+Synthetic Movie 0185,2021,"Fantasy, Animation, Thriller",7.9,309046
+Synthetic Movie 0856,2021,Crime,6.8,306445
+Synthetic Movie 0964,2021,Mystery,6.3,304583
+Synthetic Movie 0496,2021,"Action, Animation, Drama",8.2,300441
+Synthetic Movie 0458,2021,"Sci-Fi, Animation, Romance",5.6,296880
+Synthetic Movie 0655,2021,"Action, Adventure",6.5,293719
+Synthetic Movie 1095,2021,Family,7.3,279624
+Synthetic Movie 0992,2021,Drama,4.5,279368
+Synthetic Movie 0104,2021,"Romance, Comedy",7.6,278311
+Synthetic Movie 0762,2021,"Horror, Drama, Family",6.4,277780
+Synthetic Movie 0739,2021,Action,5.3,276210
+Synthetic Movie 0571,2021,"Adventure, Animation, Family",8.4,274701
+Synthetic Movie 1050,2021,"Mystery, Thriller, Animation",8.3,273053
+Synthetic Movie 0514,2021,Adventure,5.7,263538
+Synthetic Movie 0718,2021,"Romance, Adventure, Comedy",5.6,262750
+Synthetic Movie 0352,2021,Adventure,7.3,262530
+Synthetic Movie 0478,2021,"Romance, Sci-Fi, Fantasy",7.6,261178
+Synthetic Movie 1022,2021,"Fantasy, Horror, Crime",8.2,259438
+Synthetic Movie 0215,2021,"Sci-Fi, Drama",8.2,257627
+Synthetic Movie 0838,2021,"Animation, Action, Thriller",4.5,249491
+Synthetic Movie 0561,2021,"Sci-Fi, Fantasy, Horror",5.2,244768
+Synthetic Movie 0779,2021,"Crime, Fantasy",7.1,244469
+Synthetic Movie 0656,2021,Romance,6.1,224799
+Synthetic Movie 0213,2021,Comedy,5.8,222843
+Synthetic Movie 1188,2021,"Family, Comedy, Mystery",6.7,215143
+Synthetic Movie 0979,2021,"Fantasy, Drama",7.0,212332
+Synthetic Movie 0267,2021,"Action, Thriller, Comedy",4.7,212231
+Synthetic Movie 1137,2021,Thriller,5.8,203673
+Synthetic Movie 0943,2021,"Fantasy, Comedy, Drama",7.3,202698
+Synthetic Movie 0734,2021,"Fantasy, Crime",6.2,202381
+Synthetic Movie 1161,2021,Thriller,5.2,201196
+Synthetic Movie 0253,2021,Mystery,7.0,189363
+Synthetic Movie 1090,2021,"Romance, Animation",5.4,184194
+Synthetic Movie 1156,2021,"Romance, Horror",7.9,182813
+Synthetic Movie 0476,2021,Family,5.1,177944
+Synthetic Movie 1093,2021,"Horror, Animation",8.2,177640
+Synthetic Movie 1149,2021,Adventure,6.6,174829
+Synthetic Movie 0625,2021,"Adventure, Horror",7.7,167895
+Synthetic Movie 1114,2021,"Fantasy, Animation",6.3,164674
+Synthetic Movie 0205,2021,Family,6.4,163398
+Synthetic Movie 0486,2021,Horror,6.7,155307
+Synthetic Movie 0848,2021,Horror,6.7,153283
+Synthetic Movie 0861,2021,"Family, Thriller",7.0,152596
+Synthetic Movie 0258,2021,"Thriller, Crime, Drama",4.6,148272
+Synthetic Movie 0165,2021,"Horror, Fantasy, Sci-Fi",7.4,147735
+Synthetic Movie 0082,2021,Adventure,5.2,144180
+Synthetic Movie 0892,2021,"Horror, Mystery, Animation",7.9,143053
+Synthetic Movie 0067,2021,Adventure,6.6,136659
+Synthetic Movie 0632,2021,"Family, Sci-Fi, Drama",4.9,126358
+Synthetic Movie 0209,2021,"Thriller, Drama, Comedy",7.7,125648
+Synthetic Movie 0894,2021,"Family, Drama, Sci-Fi",6.0,121863
+Synthetic Movie 1106,2021,"Romance, Comedy, Sci-Fi",8.4,121682
+Synthetic Movie 0430,2021,Animation,6.0,120788
+Synthetic Movie 1038,2021,"Adventure, Thriller, Comedy",4.8,118193
+Synthetic Movie 0301,2021,"Thriller, Fantasy",5.2,117298
+Synthetic Movie 0409,2021,Horror,7.6,117190
+Synthetic Movie 0117,2021,"Drama, Thriller",6.1,115970
+Synthetic Movie 0094,2021,Action,5.4,109401
+Synthetic Movie 0873,2021,"Fantasy, Thriller",7.0,106448
+Synthetic Movie 0850,2021,"Horror, Adventure",8.2,105931
+Synthetic Movie 0809,2021,Family,7.0,103326
+Synthetic Movie 0897,2021,Drama,5.4,102992
+Synthetic Movie 0869,2021,"Thriller, Mystery, Action",5.3,100083
+Synthetic Movie 1173,2021,Crime,6.9,94797
+Synthetic Movie 0249,2021,"Fantasy, Adventure, Sci-Fi",6.0,85026
+Synthetic Movie 0700,2021,"Romance, Adventure, Sci-Fi",6.8,84235
+Synthetic Movie 0462,2021,"Action, Horror",8.0,80681
+Synthetic Movie 0988,2021,"Horror, Animation, Mystery",6.7,75839
+Synthetic Movie 0877,2021,"Sci-Fi, Drama, Fantasy",7.9,75414
+Synthetic Movie 0837,2021,Mystery,6.8,73192
+Synthetic Movie 0149,2021,"Thriller, Fantasy, Adventure",7.4,71206
+Synthetic Movie 0269,2021,Fantasy,5.7,67906
+Synthetic Movie 0942,2021,"Crime, Horror, Mystery",5.9,66346
+Synthetic Movie 0419,2021,"Crime, Fantasy",6.8,61256
+Synthetic Movie 0065,2021,"Horror, Animation, Crime",5.0,61117
+Synthetic Movie 0303,2021,"Thriller, Horror, Sci-Fi",8.0,58026
+Synthetic Movie 0366,2021,"Romance, Animation, Mystery",7.0,53983
+Synthetic Movie 1053,2021,"Family, Mystery, Comedy",7.8,53184
+Synthetic Movie 0640,2021,Thriller,8.0,52406
+Synthetic Movie 0930,2021,"Action, Sci-Fi, Family",5.4,46963
+Synthetic Movie 0489,2021,"Family, Fantasy",7.8,46428
+Synthetic Movie 1007,2021,"Fantasy, Animation, Comedy",7.7,42426
+Synthetic Movie 0827,2021,"Thriller, Crime, Comedy",5.1,37523
+Synthetic Movie 0156,2021,"Sci-Fi, Adventure, Comedy",6.8,36578
+Synthetic Movie 1013,2021,"Comedy, Adventure, Thriller",5.3,32308
+Synthetic Movie 0124,2021,"Mystery, Romance",4.9,18462
+Synthetic Movie 0717,2021,"Thriller, Crime",8.2,15607
+Synthetic Movie 0393,2021,"Drama, Romance",6.4,13722
+Synthetic Movie 0993,2021,"Fantasy, Thriller, Crime",6.4,9360
+Synthetic Movie 0952,2020,"Drama, Animation, Adventure",7.9,443480
+Synthetic Movie 0233,2020,Drama,6.9,431273
+Synthetic Movie 0308,2020,"Comedy, Drama",5.8,428951
+Synthetic Movie 0733,2020,"Sci-Fi, Thriller",5.5,427096
+Synthetic Movie 0092,2020,"Animation, Romance, Adventure",6.6,421145
+Synthetic Movie 0890,2020,"Family, Fantasy",6.6,419953
+Synthetic Movie 0161,2020,"Mystery, Romance, Comedy",8.3,418048
+Synthetic Movie 0077,2020,"Adventure, Family, Action",5.6,417811
+Synthetic Movie 0926,2020,"Thriller, Horror",6.6,417132
+Synthetic Movie 0810,2020,Sci-Fi,6.4,414689
+Synthetic Movie 0120,2020,"Action, Thriller, Comedy",7.2,414591
+Synthetic Movie 0400,2020,"Fantasy, Sci-Fi, Action",6.2,411308
+Synthetic Movie 0637,2020,"Adventure, Animation, Thriller",5.1,408778
+Synthetic Movie 0447,2020,Crime,7.9,401455
+Synthetic Movie 0867,2020,"Comedy, Family",7.6,385600
+Synthetic Movie 0450,2020,Action,8.3,385121
+Synthetic Movie 0217,2020,"Family, Horror, Drama",8.0,384698
+Synthetic Movie 0965,2020,"Thriller, Comedy",7.8,382914
+Synthetic Movie 0398,2020,Comedy,4.6,372274
+Synthetic Movie 0925,2020,Adventure,6.3,371640
+Synthetic Movie 1011,2020,"Drama, Animation",6.4,362272
+Synthetic Movie 0750,2020,"Horror, Crime",6.6,361881
+Synthetic Movie 0210,2020,"Thriller, Romance, Sci-Fi",7.0,360343
+Synthetic Movie 0735,2020,"Mystery, Family, Thriller",6.4,360045
+Synthetic Movie 0794,2020,"Romance, Family, Animation",6.5,352975
+Synthetic Movie 0843,2020,"Drama, Thriller",8.1,352778
+Synthetic Movie 0079,2020,Family,5.4,351047
+Synthetic Movie 0423,2020,"Family, Horror",5.2,339876
+Synthetic Movie 0743,2020,"Romance, Drama",7.3,339660
+Synthetic Movie 0121,2020,Comedy,7.9,330758
+Synthetic Movie 1182,2020,"Drama, Family",5.1,328455
+Synthetic Movie 1058,2020,Romance,7.6,320779
+Synthetic Movie 0934,2020,"Horror, Sci-Fi, Comedy",4.6,319318
+Synthetic Movie 0231,2020,Action,7.1,318076
+Synthetic Movie 1070,2020,"Action, Crime, Animation",5.8,316362
+Synthetic Movie 1190,2020,"Thriller, Family",7.8,314838
+Synthetic Movie 0396,2020,"Animation, Horror",7.5,310934
+Synthetic Movie 1094,2020,"Romance, Comedy, Animation",7.2,309627
+Synthetic Movie 1092,2020,Family,6.2,305363
+Synthetic Movie 0542,2020,Drama,6.6,294359
+Synthetic Movie 1046,2020,"Crime, Drama, Fantasy",6.0,293483
+Synthetic Movie 0045,2020,"Animation, Family",5.3,286168
+Synthetic Movie 1169,2020,"Thriller, Fantasy",5.7,284065
+Synthetic Movie 0437,2020,Horror,7.4,261286
+Synthetic Movie 0040,2020,Horror,5.6,259496
+Synthetic Movie 1189,2020,"Adventure, Drama",6.7,257903
+Synthetic Movie 1162,2020,"Action, Fantasy, Horror",8.2,237665
+Synthetic Movie 1009,2020,Sci-Fi,6.1,237239
+Synthetic Movie 0610,2020,Fantasy,4.9,232794
+Synthetic Movie 0997,2020,"Comedy, Horror, Mystery",5.6,226375
+Synthetic Movie 1146,2020,"Action, Drama",7.8,222386
+Synthetic Movie 0946,2020,"Horror, Thriller",7.8,221229
+Synthetic Movie 0188,2020,Drama,8.0,220364
+Synthetic Movie 0628,2020,Comedy,5.1,219977
+Synthetic Movie 0108,2020,"Horror, Fantasy",4.8,218699
+Synthetic Movie 0721,2020,"Fantasy, Horror, Drama",8.2,218474
+Synthetic Movie 0940,2020,"Action, Crime, Animation",6.4,216789
+Synthetic Movie 0499,2020,"Horror, Drama, Family",6.8,209030
+Synthetic Movie 0798,2020,"Comedy, Adventure",6.8,203515
+Synthetic Movie 1021,2020,"Sci-Fi, Animation",4.6,203059
+Synthetic Movie 0647,2020,"Romance, Thriller, Adventure",7.9,200160
+Synthetic Movie 0806,2020,"Thriller, Crime, Horror",4.5,191195
+Synthetic Movie 0449,2020,Crime,5.5,186487
+Synthetic Movie 1151,2020,"Fantasy, Thriller, Action",5.9,182176
+Synthetic Movie 0468,2020,"Action, Comedy",8.1,179569
+Synthetic Movie 0579,2020,"Drama, Horror",6.5,174274
+Synthetic Movie 0334,2020,"Horror, Family",8.1,170463
+Synthetic Movie 1049,2020,Thriller,5.4,170100
+Synthetic Movie 0747,2020,"Thriller, Drama",7.6,166001
+Synthetic Movie 0147,2020,Sci-Fi,6.0,163475
+Synthetic Movie 0405,2020,"Sci-Fi, Comedy",8.4,161035
+Synthetic Movie 0145,2020,"Mystery, Horror, Thriller",7.5,149965
+Synthetic Movie 0653,2020,"Fantasy, Animation",8.2,149169
+Synthetic Movie 0560,2020,Horror,5.7,149102
+Synthetic Movie 0731,2020,"Family, Horror, Action",7.3,146077
+Synthetic Movie 0951,2020,Comedy,7.5,144148
+Synthetic Movie 0548,2020,"Fantasy, Horror, Romance",6.4,142548
+Synthetic Movie 1148,2020,Crime,7.3,138388
+Synthetic Movie 0357,2020,"Action, Drama",7.7,129117
+Synthetic Movie 0724,2020,Comedy,8.1,110238
+Synthetic Movie 0143,2020,"Adventure, Sci-Fi",5.0,105969
+Synthetic Movie 1100,2020,Thriller,4.9,101860
+Synthetic Movie 0999,2020,Crime,8.0,100633
+Synthetic Movie 0593,2020,"Mystery, Romance",7.1,84363
+Synthetic Movie 0302,2020,Adventure,5.4,77123
+Synthetic Movie 0765,2020,Sci-Fi,7.5,73789
+Synthetic Movie 0706,2020,Family,7.8,71157
+Synthetic Movie 0428,2020,"Crime, Animation",4.8,66983
+Synthetic Movie 0469,2020,"Thriller, Fantasy, Comedy",8.4,66507
+Synthetic Movie 0982,2020,Adventure,5.2,59006
+Synthetic Movie 1017,2020,"Mystery, Drama, Romance",5.1,52920
+Synthetic Movie 0586,2020,"Adventure, Action, Comedy",6.3,52814
+Synthetic Movie 1119,2020,"Drama, Sci-Fi",8.1,52280
+Synthetic Movie 0133,2020,"Fantasy, Comedy",7.9,50436
+Synthetic Movie 0157,2020,Comedy,5.6,47565
+Synthetic Movie 0703,2020,"Sci-Fi, Action",6.5,46395
+Synthetic Movie 0032,2020,Sci-Fi,8.1,46291
+Synthetic Movie 0686,2020,Crime,5.2,43644
+Synthetic Movie 1034,2020,Comedy,7.0,42158
+Synthetic Movie 0086,2020,"Drama, Mystery, Thriller",6.0,41686
+Synthetic Movie 0322,2020,Family,5.7,30034
+Synthetic Movie 0441,2020,"Drama, Sci-Fi",6.9,28744
+Synthetic Movie 0056,2020,"Adventure, Family, Romance",6.9,25836
+Synthetic Movie 0565,2020,"Crime, Drama",5.7,21898
+Synthetic Movie 1102,2020,"Adventure, Sci-Fi",5.4,18675
+Synthetic Movie 1145,2020,"Romance, Adventure",4.5,17575
+Synthetic Movie 1004,2020,"Comedy, Drama",4.9,12720
+Synthetic Movie 0986,2019,Action,5.0,444624
+Synthetic Movie 0071,2019,"Mystery, Horror",6.7,442568
+Synthetic Movie 0305,2019,"Thriller, Mystery, Animation",5.2,440864
+Synthetic Movie 0970,2019,"Fantasy, Romance",4.7,431675
+Synthetic Movie 0764,2019,"Action, Comedy",8.4,430726
+Synthetic Movie 0075,2019,Family,8.5,430077
+Synthetic Movie 0023,2019,"Family, Mystery, Adventure",7.1,420277
+Synthetic Movie 0528,2019,"Adventure, Fantasy",7.4,418703
+Synthetic Movie 0346,2019,"Drama, Thriller, Family",4.8,413166
+Synthetic Movie 1136,2019,"Drama, Action, Adventure",8.5,397867
+Synthetic Movie 0719,2019,"Thriller, Drama",5.7,394925
+Synthetic Movie 0383,2019,"Thriller, Family",8.1,386423
+Synthetic Movie 1124,2019,Family,5.2,378317
+Synthetic Movie 0573,2019,"Comedy, Romance",5.5,377975
+Synthetic Movie 0570,2019,"Crime, Mystery",5.8,374126
+Synthetic Movie 0819,2019,"Horror, Crime, Thriller",6.2,372009
+Synthetic Movie 0822,2019,"Drama, Sci-Fi, Adventure",6.6,369019
+Synthetic Movie 0107,2019,Sci-Fi,5.4,368829
+Synthetic Movie 0500,2019,"Adventure, Horror, Drama",7.7,366397
+Synthetic Movie 0591,2019,Adventure,7.1,360014
+Synthetic Movie 0002,2019,"Horror, Adventure, Mystery",7.5,359785
+Synthetic Movie 0101,2019,"Horror, Mystery, Drama",7.8,355002
+Synthetic Movie 1183,2019,"Thriller, Drama",7.4,353746
+Synthetic Movie 0226,2019,Fantasy,8.1,348367
+Synthetic Movie 0596,2019,Comedy,5.5,342966
+Synthetic Movie 0756,2019,"Family, Thriller",7.0,337129
+Synthetic Movie 0278,2019,Horror,4.8,336992
+Synthetic Movie 0211,2019,"Action, Crime, Fantasy",7.1,333968
+Synthetic Movie 1152,2019,"Horror, Drama",6.5,333833
+Synthetic Movie 0585,2019,"Sci-Fi, Thriller",4.7,332996
+Synthetic Movie 0263,2019,Romance,5.1,328925
+Synthetic Movie 1043,2019,"Drama, Thriller",6.7,319528
+Synthetic Movie 0234,2019,Crime,7.7,317466
+Synthetic Movie 0664,2019,"Thriller, Sci-Fi",5.2,315650
+Synthetic Movie 0041,2019,"Fantasy, Comedy, Thriller",7.5,304391
+Synthetic Movie 1096,2019,Drama,7.2,301141
+Synthetic Movie 0674,2019,"Mystery, Drama, Comedy",7.4,299637
+Synthetic Movie 0020,2019,"Crime, Sci-Fi, Mystery",5.5,299318
+Synthetic Movie 0401,2019,"Romance, Fantasy",6.6,299066
+Synthetic Movie 1040,2019,"Sci-Fi, Adventure",6.8,297626
+Synthetic Movie 0475,2019,"Mystery, Sci-Fi, Family",4.6,295094
+Synthetic Movie 0414,2019,Family,4.5,293543
+Synthetic Movie 1042,2019,"Horror, Drama",7.7,293340
+Synthetic Movie 0331,2019,"Romance, Animation",4.7,291268
+Synthetic Movie 0235,2019,"Thriller, Animation",8.5,288228
+Synthetic Movie 0457,2019,Family,8.5,278285
+Synthetic Movie 0390,2019,Drama,7.0,275273
+Synthetic Movie 0314,2019,Family,5.6,274144
+Synthetic Movie 0356,2019,Adventure,7.8,271734
+Synthetic Movie 0338,2019,"Thriller, Horror",6.5,265845
+Synthetic Movie 0763,2019,"Thriller, Comedy",5.9,261994
+Synthetic Movie 0753,2019,"Romance, Animation",7.7,260632
+Synthetic Movie 1163,2019,"Horror, Crime, Drama",5.3,258478
+Synthetic Movie 0048,2019,Family,6.2,257370
+Synthetic Movie 0103,2019,"Crime, Comedy",7.5,253866
+Synthetic Movie 0796,2019,"Animation, Adventure",6.6,251042
+Synthetic Movie 0353,2019,Sci-Fi,8.0,242000
+Synthetic Movie 0783,2019,"Crime, Sci-Fi, Adventure",5.8,234488
+Synthetic Movie 0673,2019,"Fantasy, Romance, Drama",7.5,234044
+Synthetic Movie 0515,2019,"Fantasy, Adventure",6.3,225778
+Synthetic Movie 0553,2019,"Animation, Mystery, Family",6.6,224277
+Synthetic Movie 0900,2019,Comedy,7.2,220429
+Synthetic Movie 1194,2019,Mystery,5.8,217752
+Synthetic Movie 1157,2019,Mystery,6.8,209244
+Synthetic Movie 0201,2019,"Romance, Comedy, Fantasy",4.8,205563
+Synthetic Movie 0214,2019,"Horror, Crime, Animation",7.7,196814
+Synthetic Movie 0949,2019,Mystery,6.5,190355
+Synthetic Movie 1132,2019,Animation,4.7,187986
+Synthetic Movie 0204,2019,"Crime, Romance, Family",4.8,186175
+Synthetic Movie 0538,2019,"Thriller, Comedy",5.9,184865
+Synthetic Movie 0422,2019,"Mystery, Romance",4.6,181743
+Synthetic Movie 0746,2019,"Adventure, Comedy, Drama",8.4,180968
+Synthetic Movie 1029,2019,"Romance, Drama",7.0,174135
+Synthetic Movie 0638,2019,"Adventure, Horror",6.3,169643
+Synthetic Movie 0978,2019,"Romance, Crime",5.9,169354
+Synthetic Movie 0297,2019,"Sci-Fi, Romance, Family",8.3,167650
+Synthetic Movie 0153,2019,Comedy,7.8,164297
+Synthetic Movie 0583,2019,Crime,8.1,163264
+Synthetic Movie 0408,2019,"Adventure, Drama, Fantasy",5.7,155801
+Synthetic Movie 0614,2019,"Adventure, Action, Drama",7.6,145909
+Synthetic Movie 0069,2019,Sci-Fi,7.1,142340
+Synthetic Movie 0635,2019,"Thriller, Family",5.5,141834
+Synthetic Movie 0708,2019,"Sci-Fi, Adventure",7.9,140206
+Synthetic Movie 0151,2019,"Adventure, Thriller",8.5,137371
+Synthetic Movie 0046,2019,Fantasy,5.6,135970
+Synthetic Movie 0642,2019,"Family, Horror",4.9,135138
+Synthetic Movie 0425,2019,Crime,6.5,135048
+Synthetic Movie 0896,2019,Horror,6.3,125581
+Synthetic Movie 0589,2019,"Adventure, Sci-Fi",6.5,125034
+Synthetic Movie 0051,2019,Mystery,5.3,119137
+Synthetic Movie 1066,2019,"Family, Romance",6.5,108865
+Synthetic Movie 0880,2019,"Sci-Fi, Romance",8.2,107986
+Synthetic Movie 0903,2019,"Family, Mystery, Sci-Fi",5.6,99391
+Synthetic Movie 0887,2019,"Mystery, Romance, Animation",6.3,98923
+Synthetic Movie 0688,2019,"Adventure, Horror, Thriller",8.1,89360
+Synthetic Movie 0755,2019,"Thriller, Adventure",6.9,88065
+Synthetic Movie 0158,2019,Family,6.8,87068
+Synthetic Movie 0280,2019,"Comedy, Animation",5.5,81778
+Synthetic Movie 0345,2019,"Romance, Fantasy, Action",8.4,79857
+Synthetic Movie 1126,2019,Action,5.0,73981
+Synthetic Movie 1120,2019,Adventure,7.4,69772
+Synthetic Movie 0836,2019,"Action, Family",7.5,67575
+Synthetic Movie 0122,2019,"Comedy, Fantasy, Crime",6.4,64973
+Synthetic Movie 1164,2019,"Romance, Animation, Comedy",7.7,56512
+Synthetic Movie 0667,2019,Comedy,6.5,52320
+Synthetic Movie 0298,2019,"Horror, Family",6.9,49417
+Synthetic Movie 1063,2019,"Mystery, Sci-Fi",5.0,48277
+Synthetic Movie 0696,2019,"Adventure, Crime",7.1,47958
+Synthetic Movie 0787,2019,Adventure,7.4,35747
+Synthetic Movie 0072,2019,"Drama, Action",6.3,26930
+Synthetic Movie 0190,2019,Horror,6.5,24408
+Synthetic Movie 1105,2019,"Thriller, Action",5.3,21897
+Synthetic Movie 1031,2019,Adventure,5.2,21396
+Synthetic Movie 0260,2019,Sci-Fi,7.5,21073
+Synthetic Movie 0198,2019,Drama,7.3,20176
+Synthetic Movie 0967,2019,Family,6.4,10107
+Synthetic Movie 0325,2019,"Drama, Comedy, Mystery",5.7,5820
+Synthetic Movie 0582,2019,"Comedy, Sci-Fi",6.3,5354
+Synthetic Movie 0031,2018,"Comedy, Action",8.3,441032
+Synthetic Movie 0650,2018,"Adventure, Action",8.2,439821
+Synthetic Movie 1111,2018,Comedy,6.4,438591
+Synthetic Movie 0547,2018,"Animation, Drama, Sci-Fi",6.9,424169
+Synthetic Movie 1054,2018,"Animation, Fantasy",7.5,420710
+Synthetic Movie 0163,2018,"Mystery, Sci-Fi",4.7,420565
+Synthetic Movie 0239,2018,"Horror, Mystery",6.5,412904
+Synthetic Movie 0851,2018,"Horror, Action, Romance",5.2,410441
+Synthetic Movie 1158,2018,"Sci-Fi, Drama",8.0,399023
+Synthetic Movie 0948,2018,"Adventure, Horror",6.1,397580
+Synthetic Movie 0745,2018,"Sci-Fi, Horror",6.4,393454
+Synthetic Movie 0421,2018,"Romance, Crime",5.9,388317
+Synthetic Movie 0044,2018,"Thriller, Adventure",4.7,386793
+Synthetic Movie 1097,2018,Animation,6.8,382194
+Synthetic Movie 0359,2018,"Fantasy, Horror, Family",5.8,380879
+Synthetic Movie 1192,2018,"Fantasy, Adventure, Mystery",7.5,378245
+Synthetic Movie 0197,2018,Fantasy,7.6,374041
+Synthetic Movie 1180,2018,"Adventure, Fantasy",7.8,371267
+Synthetic Movie 0361,2018,"Drama, Animation, Horror",6.3,361572
+Synthetic Movie 0266,2018,"Fantasy, Horror, Romance",5.7,360722
+Synthetic Movie 0953,2018,"Fantasy, Mystery, Action",8.3,359320
+Synthetic Movie 0681,2018,"Sci-Fi, Drama, Fantasy",7.9,356285
+Synthetic Movie 0481,2018,Thriller,8.4,355337
+Synthetic Movie 0736,2018,"Horror, Romance",4.5,352265
+Synthetic Movie 0264,2018,"Fantasy, Mystery",5.6,352046
+Synthetic Movie 0445,2018,"Animation, Romance, Drama",7.3,351969
+Synthetic Movie 0911,2018,Mystery,4.9,350711
+Synthetic Movie 1030,2018,Action,4.9,350448
+Synthetic Movie 0246,2018,"Sci-Fi, Comedy, Family",8.0,346267
+Synthetic Movie 0491,2018,Adventure,7.2,345731
+Synthetic Movie 1187,2018,Thriller,5.8,345499
+Synthetic Movie 0649,2018,"Thriller, Animation",5.3,343683
+Synthetic Movie 0365,2018,"Crime, Animation, Romance",5.5,337952
+Synthetic Movie 0284,2018,"Thriller, Crime",6.4,336027
+Synthetic Movie 0852,2018,Romance,5.4,335046
+Synthetic Movie 1000,2018,"Crime, Sci-Fi",7.1,328868
+Synthetic Movie 0910,2018,"Action, Horror, Sci-Fi",5.2,327305
+Synthetic Movie 1200,2018,"Family, Animation, Crime",6.9,325597
+Synthetic Movie 0879,2018,Crime,5.2,323047
+Synthetic Movie 1195,2018,"Drama, Fantasy",7.3,317688
+Synthetic Movie 0276,2018,"Horror, Adventure",5.5,313738
+Synthetic Movie 0859,2018,Sci-Fi,7.6,312027
+Synthetic Movie 0394,2018,"Thriller, Sci-Fi",8.5,311028
